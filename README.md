@@ -535,8 +535,8 @@ I am still learning — DataFrames, Spark SQL, and HDFS file I/O are natural nex
 
 **Muhammad Taha**
 
-- GitHub: *[add your profile URL]*
-- LinkedIn: *[add your profile URL]*
+- Mail: *bolt.taha.work@gmail.com*
+- LinkedIn: *https://www.linkedin.com/in/muhammad-taha-57713b247/?skipRedirect=true*
 
 If something in the setup does not work on your machine, open an issue or reach out — happy to help.
 
