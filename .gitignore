@@ -1,0 +1,25 @@
+# LaTeX / build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Course / local-only files
+task.txt
+tasks_spark_*.pdf
+ASSIGNMENT_REPORT.*
+*_Muhammad-Taha.pdf
+
+# Duplicate screenshots at repo root (use images/ instead)
+image.png
+image_copy.png
+image_copy_2.png
+image copy.png
+image copy 2.png
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
